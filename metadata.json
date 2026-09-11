@@ -1,0 +1,6 @@
+{
+  "name": "AMP Properties AI Receptionist Landing Page",
+  "description": "A highly personalized dark-themed landing page designed to pitch a custom AI Receptionist setup to AMP Properties.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
